@@ -1,0 +1,5 @@
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\bin\Debug\DesktopConsoleApplication5.exe
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\bin\Debug\DesktopConsoleApplication5.pdb
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\obj\x86\Debug\DesktopConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\obj\x86\Debug\DesktopConsoleApplication5.exe
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\obj\x86\Debug\DesktopConsoleApplication5.pdb

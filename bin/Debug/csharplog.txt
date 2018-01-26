@@ -1,0 +1,4 @@
+06022015 09:29:56 - Error HRESULT E_FAIL has been returned from a call to a COM component.
+27042015 02:38:45 - Error HRESULT E_FAIL has been returned from a call to a COM component.
+27042015 02:43:38 - Error HRESULT E_FAIL has been returned from a call to a COM component.
+27042015 04:29:29 - Error HRESULT E_FAIL has been returned from a call to a COM component.

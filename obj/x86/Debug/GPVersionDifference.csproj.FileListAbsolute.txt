@@ -1,0 +1,5 @@
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\obj\x86\Debug\GPVersionDifference.csprojResolveAssemblyReference.cache
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\bin\Debug\GPVersionDifferences.exe
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\bin\Debug\GPVersionDifferences.pdb
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\obj\x86\Debug\GPVersionDifferences.exe
+C:\Users\perezj\Documents\Visual Studio 2010\Projects\DesktopConsoleApplication5\DesktopConsoleApplication5\obj\x86\Debug\GPVersionDifferences.pdb
